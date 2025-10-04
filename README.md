@@ -31,6 +31,9 @@ The backend provides a **mock AI chat service** simulating ChatGPT responses, wh
 - Auto-scrolls to show the latest messages.
 
 ---
+Screenshot of Output
+<img width="1837" height="892" alt="image" src="https://github.com/user-attachments/assets/001a2696-8322-464b-966f-4ea89bea182a" />
+
 
 ## Setup Instructions
 
@@ -62,4 +65,6 @@ npm start
 
 
 Frontend will run at: http://localhost:3000
+
+
 
